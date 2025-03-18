@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Young+Serif&display=swap');
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Figtree', sans-serif;
+}
+
+.card {
+    background-color: white;
+    border-radius: 15px;
+    border: 1.75px solid hsl(0, 0%, 7%);
+    box-shadow: 8px 8px 0 rgba(0, 0, 0, 1);
+    width: 90%;
+    max-width: 400px;
+    padding: 5px 23px;
+}
+
+.card__image {
+    width: 100%;
+    border-radius: 0.75rem;
+}
+
+.card__content {
+    padding: 20px 0;
+}
+
+.tags {
+    background-color: hsl(47, 88%, 63%);
+    color: hsl(0, 0%, 7%);
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.tags:hover {
+    background-color: hsl(47, 88%, 50%);
+}
+
+.publish-date {
+    color: hsl(0, 0%, 7%);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.card__content p {
+    color: hsl(0, 0%, 42%);
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.card__content h2 {
+    color: hsl(0, 0%, 7%);
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-weight: 800;
+}
+
+.card__content h2:hover {
+    color: hsl(47, 88%, 50%);
+    cursor: pointer;
+}
+
+.card__author {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.card__author-image {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.card__author-info h3 {
+    color: hsl(0, 0%, 7%);
+    font-size: 16px;
+    font-weight: 800;
+}
