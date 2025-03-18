@@ -24,7 +24,7 @@ This is a solution to the [Blog Preview Card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/ruhit1000/Blog-Preview-Card))
 - Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ruhit1000.github.io/Blog-Preview-Card/))
 
 ## My Process
@@ -44,12 +44,6 @@ In this project, I learned how to create a responsive card component using HTML 
 
 In future projects, I want to continue improving my CSS skills, particularly with Flexbox and Grid. I also want to learn more about responsive design and accessibility.
 
-### Useful Resources
-
-- [MDN Web Docs](https://developer.mozilla.org/) - This is an amazing resource for learning about HTML, CSS, and JavaScript.
-- [CSS Tricks](https://css-tricks.com/) - This site has many helpful articles and tutorials on CSS.
-
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ruhit1000](https://www.frontendmentor.io/profile/ruhit1000)
